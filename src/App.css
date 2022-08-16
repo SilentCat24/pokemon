@@ -25,3 +25,7 @@ button {
   text-transform: capitalize;
   border-radius: 5px;
 }
+
+h2 {
+  color: rgb(124, 124, 124);
+}
