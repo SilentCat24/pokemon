@@ -40,6 +40,7 @@ function App() {
 
   return (
     <div className="App">
+      <h2>Names Of Pokemon</h2>
       <Pagination
         goNextPage={nextPage ? goNextPage : null}
         goPreviousPage={previousPage ? goPreviousPage : null}
